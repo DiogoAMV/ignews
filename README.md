@@ -34,26 +34,27 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 1.  **Faça o clone do repositório.**
 
-    ```
-      git clone https://github.com/DiogoAMV/ignews.git
-    ```
+```
+git clone https://github.com/DiogoAMV/ignews.git
+```
 
 2.  **Instalação das dependências**
 
    execute na pasta do projeto o seguinte comando:
 
-    ```npm install ou yarn
-    ```
+```
+npm install ou yarn
+ ```
 
-    após a instalação execute o seguinte comando.
+   após a instalação execute o seguinte comando.
 
-    ```npm run dev ou yarn dev
-    ```
+```
+npm run dev ou yarn dev
+```
 
 3.  **Verificando no navegador**
 
     O projeto vai executar no seguinte endereço: `http://localhost:3000`
-
 
 
 ## :memo: Licença
