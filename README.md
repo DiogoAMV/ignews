@@ -1,35 +1,61 @@
-# Ignews
+<p align="center">
+   <img src="preview.png" alt="ignews" width="480px"/>
+</p>
 
-Projeto desenvolvido durante o Ignite da RocketSeat. Se trata de uma aplicação cujo objetivo é um blog sobre React com conteúdos pagos.
+<h1 align="center">Ignews</h1>
 
-<img src="preview.png" alt="exemplo imagem">
+<h3 align="center">
+  :rocket: Projeto desevolvido durante o curso Ignite, disponibilizado pela RocketSeat. 🚀
+</h3>
 
-### 🔧 Instalação
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucas-eduardo/ignite-react-challenge06?color=%2304D361">
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  </a>
 
-Diga como essa etapa será:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+</p>
 
-```
-Clone o repositório em sua máquina.
-Rode o seguinte comando em seu terminal:
-"yarn" ou "npm install".
-```
+# :computer: Tecnologias
 
-Executando o projeto em ambiente de desenvolvimento:
+Este projeto foi feito utilizando as seguintes tecnologias:
 
-```
-Execute o seguinte comando:
-"yarn dev" ou "npm run dev"
-```
+- [React](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [NextJS](https://nextjs.org/)
+- [Stripe](https://stripe.com/br)
+- [FaunaDB](https://fauna.com/)
+- [Prismic CMS](https://prismic.io/)
 
-## 📄 Licença
 
-Este projeto está sob a licença MID - veja o arquivo [LICENSE.md](https://github.com/DiogoAMV/ignews/license) para detalhes.
+## Como Iniciar?
 
-## 🎁 Expressões de gratidão
+1.  **Faça o clone do repositório.**
 
-* Obrigado RocketSeat pelo conteúdo de quaidade entregado. 📢
+    ```
+      git clone https://github.com/DiogoAMV/ignews.git
+    ```
 
----
-⌨️ com ❤️ por [Diogo Marques](https://gist.github.com/DiogoAMV) 😊
+2.  **Instalação das dependências**
+
+   execute na pasta do projeto o seguinte comando:
+
+    ```npm install ou yarn
+    ```
+
+    após a instalação execute o seguinte comando.
+
+    ```npm run dev ou yarn dev
+    ```
+
+3.  **Verificando no navegador**
+
+    O projeto vai executar no seguinte endereço: `http://localhost:3000`
+
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
